@@ -1,2 +1,0 @@
-#GraphicsTheory
-GraphTheory_OTQT
