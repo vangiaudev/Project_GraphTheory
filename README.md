@@ -1,2 +1,2 @@
-# -n-Nh-m
+#GraphicsTheory
 GraphTheory_OTQT
